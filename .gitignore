@@ -1,0 +1,9 @@
+# OS junk / 系统垃圾文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor temp files / 编辑器临时文件
+~$*
+*.tmp
+*.bak
